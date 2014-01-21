@@ -3,7 +3,7 @@ ESTG-Air-Race
 
 It's a small C script, written to help manage AirRace lap times, pilots and stages.
 
-It was coded for academic purposes, good for anyone taking baby steps into C language. First look into functions, pointers and dynamic memory allocation.
+It was coded for academic purposes (2010), good for anyone taking baby steps into C language. First look into functions, pointers and dynamic memory allocation.
 
 Code comments and named written in Portuguese language.
 
@@ -35,9 +35,7 @@ Features:
 Work Report PDF included.
 
 Created by
-Bruno Tereso - 2091066@my.ipleiria.pt
-Marco Ferreira - 2092016@my.ipleiria.pt
+Bruno Tereso - 2091066@my.ipleiria.pt / Marco Ferreira - 2092016@my.ipleiria.pt
 
 Tutors
-Filipe Lopes - ESTG/IPLeiria
-Vitor Távora - ESTG/IPLeiria	
+Filipe Lopes - ESTG/IPLeiria / Vitor Távora - ESTG/IPLeiria	
