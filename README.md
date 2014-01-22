@@ -5,7 +5,7 @@ It's a small C script, written to help manage AirRace lap times, pilots and stag
 
 It was coded for academic purposes (2010), good for anyone taking baby steps into C language. First look into functions, pointers and dynamic memory allocation.
 
-Code comments and named written in Portuguese language.
+Code, comments, and names are written in Portuguese language.
 
 Features:
 
